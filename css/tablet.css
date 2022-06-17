@@ -72,7 +72,7 @@
     }
     
     .nav {      
-      padding: 0;
+      margin: 0;
     }
 
     .nav__item {
@@ -83,6 +83,7 @@
 
     .topnav__bar {
       display: none;
+
     }
 
     .button::after {
