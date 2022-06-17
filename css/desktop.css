@@ -1,0 +1,32 @@
+@media screen and (min-width: 920px) {
+    .section__content > * {
+        flex-basis: 275px;
+    }
+    
+    
+    .section__content--scroll {
+        gap: 30px;
+    }
+
+    .section__content--scroll > *{
+        flex-grow: 0;
+        flex-basis: 25vw;
+    }
+
+
+
+    .frame--gallery {
+        flex-basis: 20vw;
+    }
+
+
+    .frame__link--bestof {
+        min-width: 760px;
+    }
+
+    .frame__caption--best{
+        max-width: 760px;
+    }
+}
+
+

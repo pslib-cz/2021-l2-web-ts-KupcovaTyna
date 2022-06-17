@@ -1,0 +1,15 @@
+html{
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #EDEDED;
+}
+
+p {
+    color: #191010;
+    font-size: 1em;
+}
+
+a {
+    color: #191010;
+    text-decoration: none;
+    display: block;
+}
